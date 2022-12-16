@@ -1,0 +1,2 @@
+tweepy
+instagram-private-api
