@@ -1,0 +1,3 @@
+[build]
+  command = "python bot.py"
+  publish = "dist"
