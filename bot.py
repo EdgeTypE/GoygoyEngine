@@ -9,7 +9,7 @@ twitter_api = tweepy.API(auth)
 # Instagram API anahtarlarını kullanarak instagram_private_api nesnesini oluşturun
 instagram_api = instagram_private_api.Client(access_token=instagram_access_token)
 
-user_name = "kullanici_adi"
+user_name = "goygoyengineen2"
 start_date = "2022-01-01"
 end_date = "2022-12-31"
 
